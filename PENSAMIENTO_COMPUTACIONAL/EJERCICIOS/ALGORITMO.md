@@ -1,34 +1,26 @@
-# DESARROLLA UN ALGORITMO SOBRE UNA ACTIVIDAD DE TU VIDA COTIDIANA.
- //Comprar comida//
- 
+# DESARROLLA UN ALGORITMO QUE CONVIERTA CUALQUIER NÚMERO DE METROS A YARDAS.
 1. Inicio
 
-2. Descargar la aplicación de comida
+2. Declarar Metros y Yardas
 
-3. Crear un usuario
+3. Asignar valor a Metros
 
-4. Seleccionar el menú
+4. Operación (Yardas = Metros * 1.0936)
 
-5. Verificar si cuento con el dinero suficiente
+5. Mostrar Yardas
 
-6. Realizar el pedido dentro de la aplicación
+6. Fin
 
-7. Hacer el pago
-
-8. Fin
-
-# DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
+# DESARROLLA UN ALGORITMO QUE MULTIPLIQUE POR 9.
 1. Inicio
 
-2. Declarar valores año de nacimiento, año actual, edad
+2. Declarar Número. Resultado
 
-3. Asignar valores de año de nacimiento y año actual
+3. Asignar valor a Número
 
-4. Fórmula (Edad = Año actual - Año de nacimeinto)
+4. Operación (Resultado = Número * 9)
 
-5. Realizar la operación aritmética
+5. Mostar Resultado
 
-6. Mostar edad
-
-7. Fin
+6. Fin
 
