@@ -1,36 +1,34 @@
 # DESARROLLA UN ALGORITMO SOBRE UNA ACTIVIDAD DE TU VIDA COTIDIANA.
  //Comprar comida//
  
-Inicio
+1. Inicio
 
-Descargar la aplicación de comida
+2. Descargar la aplicación de comida
 
-Crear un usuario
+3. Crear un usuario
 
-Seleccionar el menú
+4. Seleccionar el menú
 
-Verificar si cuento con el dinero suficiente
+5. Verificar si cuento con el dinero suficiente
 
-Realizar el pedido dentro de la aplicación
+6. Realizar el pedido dentro de la aplicación
 
-Realizar el pago
+7. Hacer el pago
 
-Recibir al repartidor
-
-Fin
+8. Fin
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
-Inicio
+1. Inicio
 
-Declarar valores año de nacimiento, año actual, edad
+2. Declarar valores año de nacimiento, año actual, edad
 
-Ingresar valores de año de nacimiento, año actual
+3. Asignar valores de año de nacimiento y año actual
 
-Fórmula (Año actual resta al año de nacimeinto)
+4. Fórmula (Edad = Año actual - Año de nacimeinto)
 
-Realizar la operación aritmética
+5. Realizar la operación aritmética
 
-La edad es igual a la resta del Año actual menos Año de Nacimiento
+6. Mostar edad
 
-Fin
+7. Fin
 
