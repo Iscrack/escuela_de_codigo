@@ -50,10 +50,10 @@ retardo >= 3 baja
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo resuelve: “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es mayor que “F”. ¿Cuál es el menor de todos?
 1. C > D
-2. E < F
-3. G < E
-4. D > F
-5. RESPUESTA: "C" ES LA MAYOR
+2. D > F    
+3. E < F
+4. G < E
+5. RESPUESTA: "G" ES LA MENOR
 
 3^2 – (10/(8-4))+9 > 100
 1. 9 - (10/(8-4) +9 > 100
@@ -69,7 +69,7 @@ Reto. Evalúa las siguientes expresiones a la derecha.
 
 (6! =6) && (12>22)) = FALSE
 
-- (128<145 && 12>9) = FALSE
+¬ (128<145 && 12>9) = FALSE
 
 “Daniela”< >”DANIELA” = TRUE
 
