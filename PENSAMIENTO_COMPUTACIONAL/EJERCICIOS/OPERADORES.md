@@ -50,8 +50,7 @@ Reto. Analiza el problema y selecciona la opción que consideres que lo resuelve
 2. E < F
 3. G < E
 4. D > F
-5. 
-RESPUESTA: "C" ES LA MAYOR
+5. RESPUESTA: "C" ES LA MAYOR
 
 3^2 – (10/(8-4))+9 > 100
 1. 9 - (10/(8-4) +9 > 100
