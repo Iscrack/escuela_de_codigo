@@ -44,6 +44,9 @@ retardo = 2 == suspensión
 
 retardo = 3 == baja definitiva
 
+retardo < 2  bono
+retardo == 2 sanción
+retardo >= 3 baja
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo resuelve: “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es mayor que “F”. ¿Cuál es el menor de todos?
 1. C > D
@@ -66,7 +69,7 @@ Reto. Evalúa las siguientes expresiones a la derecha.
 
 (6! =6) && (12>22)) = FALSE
 
-(128<145 && 12>9) = TRUE
+- (128<145 && 12>9) = FALSE
 
 “Daniela”< >”DANIELA” = TRUE
 
