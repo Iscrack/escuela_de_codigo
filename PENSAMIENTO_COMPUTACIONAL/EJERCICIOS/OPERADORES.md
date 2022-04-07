@@ -35,6 +35,7 @@ x = ((8+5) *4) * (10-6)/4)
 
 OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de puntualidad. Si el empleado siempre llega puntual durante el mes se le notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene 2 retardos se le suspende un día y si tiene 3 o más retardos se le da de baja al final del mes. Describe tal situación usando operadores relacionales.
+
 entrada <= 9
 
 entrada > 9 == retardo
@@ -43,12 +44,12 @@ retardo = 2 == suspensión
 
 retardo = 3 == baja definitiva
 
+
 Reto. Analiza el problema y selecciona la opción que consideres que lo resuelve: “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es mayor que “F”. ¿Cuál es el menor de todos?
 1. C > D
 2. E < F
 3. G < E
 4. D > F
-
 RESPUESTA: "C" ES LA MAYOR
 
 3^2 – (10/(8-4))+9 > 100
