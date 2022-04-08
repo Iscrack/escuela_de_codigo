@@ -11,7 +11,9 @@
 * Modos de direccionamiento: Inmediato, (constantes de 13 bits). Directo, (offset de 13 bits). Indirecto, (registro + offset de 13 bits o registro + registro).
 * Utiliza instrucciones retardadas (saltos, load y store ).
 * Manejo de memoria: Espacio virtual de 4 Gigabytes. Unidad de manejo de memoria (MMU) que trabaja con páginas de tamaño configurable.
+
 ![image](https://user-images.githubusercontent.com/99224635/162494492-f53d7748-3c5d-4957-a2d4-f4d8cc5b9130.png)
+
 
 ## LENGUAJE 2
 ### LENGUAJE DE ALTO NIVEL - Python.
@@ -28,7 +30,9 @@
 * Python tiene una gran biblioteca estándar, usada para una diversidad de tareas
 * El 13 de febrero de 2009 se lanzó una nueva versión de Python bajo el nombre clave "Python 3000" o, abreviado, "Py3K". Esta nueva versión incluye toda una serie de cambios que requieren reescribir el código de versiones anteriores. Para facilitar este proceso junto con Python 3 se ha publicado una herramienta automática llamada 2to3
 * En el sistema operativo Windows 10, a partir de su actualización de mayo de 2019, dispone de la característica de preinstalación asistida del lenguaje Python y varias de sus herramientas adicionales
+
 ![image](https://user-images.githubusercontent.com/99224635/162496033-69601c41-c552-4a8b-9c41-2ee06ef3b14b.png)
+
 
 ## LENGUAJE 3
 ### LENGUAJE DE ALTO NIVEL - JAVA.
@@ -44,4 +48,5 @@
 * La sintaxis de Java se deriva en gran medida de C++. Pero a diferencia de este, que combina la sintaxis para programación genérica, estructurada y orientada a objetos, Java fue construido desde el principio para ser completamente orientado a objetos
 * A diferencia de C++, Java no tiene sobrecarga de operadores o herencia múltiple para clases, aunque la herencia múltiple está disponible para interfaces.
 * Existen alternativas para el entorno de ejecución y de desarrollo de Java con una gran cobertura de funcionalidades con respecto a las implementaciones comerciales de Sun, IBM, Bea, etc.
+*
 ![image](https://user-images.githubusercontent.com/99224635/162497473-b76b65a1-2e61-4201-af6d-72aae365e067.png)
