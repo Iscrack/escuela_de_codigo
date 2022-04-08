@@ -1,5 +1,4 @@
 ## LENGUAJE 1
-## LENGUAJE 1
 ### LENGUAJE DE BAJO NIVEL - Sun SPARC (Scalable Processor ARChitecture).
 * Desarrollador: Sun Microsystems & Oracle Corporation 
 * Fabricante: Sun Microsystems (adquirido por Oracle Corporation)
@@ -16,7 +15,7 @@
 
 
 ## LENGUAJE 2
-### LENGUAJE DE ALTO NIVEL - Python.
+### LENGUAJE DE ALTO NIVEL - PYTHON.
 * Diseñado por	Guido van Rossum
 * Apareció en	1991
 * Extensiones comunes:	.py, .pyc, .pyd, .pyo, .pyw, .pyz, .pyi
