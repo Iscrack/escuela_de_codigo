@@ -2,7 +2,7 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 * Variable Numérica
-*
+
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 * Variable Numérica
