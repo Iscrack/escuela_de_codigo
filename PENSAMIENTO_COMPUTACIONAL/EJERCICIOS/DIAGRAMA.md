@@ -10,7 +10,17 @@
 ![image](https://user-images.githubusercontent.com/99224635/163030615-a5fec8ea-a683-4646-99bd-49a41f2e5035.png)
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
+1. Inicio
 
+Declarar Metros y Yardas
+
+Asignar valor a Metros
+
+Operación (Yardas = Metros * 1.0936)
+
+Mostrar Yardas
+
+Fin
 
 4. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
