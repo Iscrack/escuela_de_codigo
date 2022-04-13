@@ -10,8 +10,8 @@
  
 ![image](https://user-images.githubusercontent.com/99224635/163085705-11cecf90-5176-4a5d-b5fe-b705fa87f975.png)
 
-![image](https://user-images.githubusercontent.com/99224635/163251288-729403ac-286f-40ac-b920-74e4c3796f8b.png)
 *Archivo de PSeInt
+![image](https://user-images.githubusercontent.com/99224635/163251288-729403ac-286f-40ac-b920-74e4c3796f8b.png)
 
 
 
