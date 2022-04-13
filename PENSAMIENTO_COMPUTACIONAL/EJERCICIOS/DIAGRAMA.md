@@ -2,9 +2,9 @@
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 *INICIO
 * PROCESO. Se declaran variables de número, constante nueve y resultado
-* MOSTRAR. Se solicita el valor de un número 
-* ENTRADA. Se ingresa el número
-* PROCESO. Se multiplica el número elegido por la constante 9
+* MOSTRAR. Se solicita ingresar un número (Entre comillas)
+* ENTRADA. Se ingresa el número elegido al azar 
+* PROCESO. Se multiplican el número elegido por la constante 9
 * MOSTRAR. Resultado de la multiplicación ("El resultado es + ")
 * FIN.
  
@@ -13,10 +13,10 @@
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
 * INICIO
-* PROCESO. Se declaran variables de metros, constante yarda y resultado
-* MOSTRAR. Solicitar el valor de metros
+* PROCESO. Se declaran variables de metros, constante yarda y resultado 
+* MOSTRAR. Se solicita el valor de metros (Entre comillas)
 * ENTRADA. Se ingresa en número de metros
-* PROCESO. Se multiplica el número de metros * 1.0936)
+* PROCESO. Se multiplican el número de metros * 1.0936)
 * MOSTRAR. Resultado de la multiplicación ("El resultado es igual a + + yardas")
 * FIN
 
@@ -30,7 +30,7 @@
 * ENTRADA. Se ingresa el número
 * MOSTRAR. Se solicita el valor de la altura 
 * ENTRADA. Se ingresa el número
-* PROCESO. Se multiplica la base * la altura y se divide entre 2.
+* PROCESO. Se multiplican el valor de la base * el valor de la altura y se divide entre 2.
 * MOSTRAR. Resultado de la operación ("Área es igual a + ") 
 * FIN.
 
