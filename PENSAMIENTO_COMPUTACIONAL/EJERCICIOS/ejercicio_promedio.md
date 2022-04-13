@@ -12,5 +12,5 @@
 * Solicitar calificación 4
 * Ingresar calificación 4
 * Realizar operación (c1 + c2 + c3 + c4)/4 
-* Mostrar resultado 
+* Mostrar resultado ("Su promedio es + ")
 * FIN 
