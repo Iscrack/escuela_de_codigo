@@ -1,7 +1,7 @@
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 *INICIO
-* PROCESO. Se declaran variables de número y resultado
+* PROCESO. Se declaran variables de número, constante nueve y resultado
 * MOSTRAR. Se solicita el valor de un número 
 * ENTRADA. Se ingresa el número
 * PROCESO. Se multiplica el número elegido por la constante 9
@@ -13,7 +13,7 @@
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
 * INICIO
-* PROCESO. Se declaran variables de metros y resultado
+* PROCESO. Se declaran variables de metros, constante yarda y resultado
 * MOSTRAR. Solicitar el valor de metros
 * ENTRADA. Se ingresa en número de metros
 * PROCESO. Se multiplica el número de metros * 1.0936)
@@ -25,7 +25,7 @@
 
 4. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 * INICIO
-* PROCESO. Se declaran variables de base y altura
+* PROCESO. Se declaran variables de base, altura y resultado
 * MOSTRAR. Se solicita el valor de la base 
 * ENTRADA. Se ingresa el número
 * MOSTRAR. Se solicita el valor de la altura 
