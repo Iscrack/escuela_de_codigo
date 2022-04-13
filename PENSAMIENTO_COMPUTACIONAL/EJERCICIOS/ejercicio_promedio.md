@@ -1,6 +1,6 @@
 # Algoritmo y diagrama de flujo que solicite nombre, calificaciones de cuatro periodos y promedio del alumno
 * INICIO
-* Declarar Nombre completo, Calificación 1, Calificación 2, Calificación 3, Calificación 4, Resultado
+* Declarar Nombre completo; Calificación 1; Calificación 2; Calificación 3; Calificación 4; Promedio.
 * Solicitar Nombre
 * Ingresar nombre
 * Solicitar calificación 1
