@@ -48,4 +48,5 @@
 
 *Ejercicio en PSeInt
 
-![image](https://user-images.githubusercontent.com/99224635/163624356-464d4fe6-8aef-42ae-a991-a6a938151b95.png)
+![image](https://user-images.githubusercontent.com/99224635/163624822-10be63e3-70a3-4f4f-a4a7-83762b255508.png)
+
