@@ -9,8 +9,8 @@
 * FIN.
  
 ![image](https://user-images.githubusercontent.com/99224635/163085705-11cecf90-5176-4a5d-b5fe-b705fa87f975.png)
-
 *Ejercicio en PSeInt
+
 ![image](https://user-images.githubusercontent.com/99224635/163251288-729403ac-286f-40ac-b920-74e4c3796f8b.png)
 
 
@@ -25,8 +25,8 @@
 * FIN
 
 ![image](https://user-images.githubusercontent.com/99224635/163086775-467f76d1-5dd8-4ad0-82f1-730751f245f9.png)
-
 *Ejercicio en PSeInt
+
 ![image](https://user-images.githubusercontent.com/99224635/163623994-1ec2a2e0-6f44-4638-a064-6553022106b0.png)
 
 
@@ -43,6 +43,6 @@
 * FIN.
 
 ![image](https://user-images.githubusercontent.com/99224635/163088319-5d175737-7fd5-4bbd-a123-e6dde33df6dc.png)
-
 *Ejercicio en PSeInt
+
 ![image](https://user-images.githubusercontent.com/99224635/163624356-464d4fe6-8aef-42ae-a991-a6a938151b95.png)
