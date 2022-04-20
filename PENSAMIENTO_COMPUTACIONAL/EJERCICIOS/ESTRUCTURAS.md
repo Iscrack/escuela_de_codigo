@@ -3,10 +3,15 @@
 
 * Programa que pida un número y diga si es positivo o negativo
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
-**1. INICIO
-**2. DECLARAR S
-**3. DECLARAR P
-**4. DECLARAR ERROR
+**1 INICIO
+
+**2 DECLARAR "S"
+
+**3 DECLARAR "P"
+
+**4 DECLARAR "LETRA NO VALIDA"
+
+**5 
 
 
 
