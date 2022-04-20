@@ -6,12 +6,12 @@
 #Estructura compuesta: Mayor de edad / Menor de edad
 ![image](https://user-images.githubusercontent.com/99224635/164130900-5ddba33f-638d-4225-8122-a169ede1f9c8.png)
 
-![image](https://user-images.githubusercontent.com/99224635/164128783-1280792a-83c7-4cd5-bf8a-25ab41aadc97.png)
-
 
 #Estructura compuesta: Número positivo / Número neutro / Número negativo
 ![image](https://user-images.githubusercontent.com/99224635/164130468-dc490e37-5510-4d93-aeda-e1c9b89a1f65.png)
 
-![image](https://user-images.githubusercontent.com/99224635/164130440-d4cf9a55-ba6c-4a86-a185-7b6c0bb1fb89.png)
 
-![image](https://user-images.githubusercontent.com/99224635/164130505-d152d0e5-6624-4e66-a738-81037cbaab48.png)
+#Estructura compuesta: Estatura
+![image](https://user-images.githubusercontent.com/99224635/164132380-cafec2b9-6917-4ead-92a4-d60aa9356ac5.png)
+
+
