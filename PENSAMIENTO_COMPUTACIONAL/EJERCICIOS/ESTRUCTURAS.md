@@ -10,17 +10,20 @@
 
 **3 MOSTRAR: "ESCRIBA UNA LETRA"
 
-**4 DECLARAR: IF LETRA = S 
+**4 ASIGNAR LETRA
 
-**5 DECLARAR: IF LETRA = N
+**5 IF LETRA = S o LETRA = N
 
 **6 MOSTRAR: "LETRA VÁLIDA"
 
-**7 DECLARAR: ELSE
+**7 ELSE 
 
 **8 MOSTRAR: "LETRA INVÁLIDA"
 
 **9 FIN
+
+
+![image](https://user-images.githubusercontent.com/99224635/164292460-1353ec6a-a530-408f-bfb3-f740f06c77f9.png)
 
 
 
@@ -29,6 +32,25 @@
 
 **1 INICIO
 
+**2 DECLARAR(NUM1, NUM2, NUM3)Int
+
+**3 MOSTRAR: "ESCRIBA TRES NÚMEROS"
+
+**4 ASIGNAR NUM1
+
+**5 ASIGNAR NUM2
+
+**6 ASIGNAR NUM3
+
+**5 IF NUM1 <NUM2 <NUM3
+       
+
+**6 
+
+           
+             
+             
+            
 
 
 
