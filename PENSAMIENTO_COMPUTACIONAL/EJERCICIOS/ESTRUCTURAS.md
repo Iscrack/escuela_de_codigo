@@ -4,15 +4,19 @@
 * Programa que pida un número y diga si es positivo o negativo
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 
-**INICIO
-**DECLARAR(LETRA)char
-** MOSTRAR: "ESCRIBA UNA LETRA"
-** DECLARAR: SI LETRA = S 
-**5 DECLARAR: SI LETRA = N
+**1 INICIO
+
+**2 DECLARAR(LETRA)char
+
+**3 MOSTRAR: "ESCRIBA UNA LETRA"
+
+**4 DECLARAR: IF LETRA = S 
+
+**5 DECLARAR: IF LETRA = N
 
 **6 MOSTRAR: "LETRA VÁLIDA"
 
-**7 DECLARAR: SINO 
+**7 DECLARAR: ELSE
 
 **8 MOSTRAR: "LETRA INVÁLIDA"
 
@@ -22,7 +26,9 @@
 
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
-** INICIO
+
+**1 INICIO
+
 
 
 
