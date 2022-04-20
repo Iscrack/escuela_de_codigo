@@ -15,6 +15,6 @@
 ![image](https://user-images.githubusercontent.com/99224635/164132380-cafec2b9-6917-4ead-92a4-d60aa9356ac5.png)
 
 
-#Estructura múltiple: Días de la semans
+#Estructura múltiple: Días de la semana
 ![image](https://user-images.githubusercontent.com/99224635/164133490-3ff50334-8847-4baf-94b2-6b60e7241006.png)
 
