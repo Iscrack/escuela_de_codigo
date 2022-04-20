@@ -23,27 +23,41 @@
 **9 FIN
 
 
-![image](https://user-images.githubusercontent.com/99224635/164292460-1353ec6a-a530-408f-bfb3-f740f06c77f9.png)
+![image](https://user-images.githubusercontent.com/99224635/164295148-47e105ae-3057-4332-82da-d09d66b0063d.png)
+
 
 
 
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 
-**1 INICIO
+**INICIO
 
-**2 DECLARAR(NUM1, NUM2, NUM3)Int
+**DECLARAR(NUM1, NUM2, NUM3)Int
 
-**3 MOSTRAR: "ESCRIBA TRES NÚMEROS"
+**MOSTRAR: "ESCRIBA TRES NÚMEROS"
 
-**4 ASIGNAR NUM1
+**ASIGNAR NUM1
 
-**5 ASIGNAR NUM2
+**ASIGNAR NUM2
 
-**6 ASIGNAR NUM3
+**ASIGNAR NUM3
 
-**5 IF NUM1 <NUM2 <NUM3
-       
+**IF NUM1 < NUM2 &  NUM2 < NUM3 
+**MOSTRAR NUM1, NUM2, NUM 3
+** IF NUM 3 < NUM 2
+** MOSTRAR NUM1, NUM 3, NUM 2
+
+**IF NUM2 < NUM1 & NUM1 < NUM3
+**MOSTRAR NUM2, NUM1, NUM 3
+** IF NUM 3 < NUM 1
+** MOSTRAR NUM2, NUM 3, NUM 1
+
+**IF NUM3 < NUM2 & NUM2 < NUM1
+**MOSTRAR NUM3, NUM2, NUM 1
+** IF NUM 1 < NUM 2
+** MOSTRAR NUM3, NUM 1, NUM 2
+
 
 **6 
 
