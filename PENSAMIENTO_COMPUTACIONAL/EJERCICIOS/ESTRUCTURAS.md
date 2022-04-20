@@ -12,7 +12,7 @@
 
 **4 ASIGNAR LETRA
 
-**5 IF LETRA = S o LETRA = N
+**5 IF LETRA = S || LETRA = N
 
 **6 MOSTRAR: "LETRA VÁLIDA"
 
@@ -24,6 +24,9 @@
 
 
 ![image](https://user-images.githubusercontent.com/99224635/164295148-47e105ae-3057-4332-82da-d09d66b0063d.png)
+
+
+![image](https://user-images.githubusercontent.com/99224635/164303713-8a0829a6-92d3-4e4d-98fb-924d95c507be.png)
 
 
 
@@ -43,25 +46,27 @@
 
 **ASIGNAR NUM3
 
-**IF NUM1 < NUM2 &  NUM2 < NUM3 
+**IF NUM1 < NUM2 &&  NUM2 < NUM3 
 **MOSTRAR NUM1, NUM2, NUM 3
 ** IF NUM 3 < NUM 2
 ** MOSTRAR NUM1, NUM 3, NUM 2
 
-**IF NUM2 < NUM1 & NUM1 < NUM3
+**IF NUM2 < NUM1 && NUM1 < NUM3
 **MOSTRAR NUM2, NUM1, NUM 3
 ** IF NUM 3 < NUM 1
 ** MOSTRAR NUM2, NUM 3, NUM 1
 
-**IF NUM3 < NUM2 & NUM2 < NUM1
+**IF NUM3 < NUM2 && NUM2 < NUM1
 **MOSTRAR NUM3, NUM2, NUM 1
 ** IF NUM 1 < NUM 2
 ** MOSTRAR NUM3, NUM 1, NUM 2
 
+**FIN
 
-**6 
+![image](https://user-images.githubusercontent.com/99224635/164303810-649356e1-6638-48a5-9240-ce96f41058d9.png)
 
-           
+
+
              
              
             
