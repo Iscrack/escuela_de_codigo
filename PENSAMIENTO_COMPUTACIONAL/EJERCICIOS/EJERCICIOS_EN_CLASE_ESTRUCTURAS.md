@@ -3,6 +3,8 @@
 
 
 #Estructura compuesta: Mayor de edad / Menor de edad
+![image](https://user-images.githubusercontent.com/99224635/164130900-5ddba33f-638d-4225-8122-a169ede1f9c8.png)
+
 ![image](https://user-images.githubusercontent.com/99224635/164128783-1280792a-83c7-4cd5-bf8a-25ab41aadc97.png)
 
 
