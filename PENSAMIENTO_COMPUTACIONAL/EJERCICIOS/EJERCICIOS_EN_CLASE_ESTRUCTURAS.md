@@ -4,7 +4,7 @@
 
 
 #Estructura compuesta: Mayor de edad / Menor de edad
-![image](https://user-images.githubusercontent.com/99224635/164130900-5ddba33f-638d-4225-8122-a169ede1f9c8.png)
+![image](https://user-images.githubusercontent.com/99224635/164132528-0d579a85-8246-4284-99f4-b94f6ecd9282.png)
 
 
 #Estructura compuesta: Número positivo / Número neutro / Número negativo
@@ -15,3 +15,4 @@
 ![image](https://user-images.githubusercontent.com/99224635/164132380-cafec2b9-6917-4ead-92a4-d60aa9356ac5.png)
 
 
+#
