@@ -11,8 +11,8 @@
 ![image](https://user-images.githubusercontent.com/99224635/164130468-dc490e37-5510-4d93-aeda-e1c9b89a1f65.png)
 
 
-
 #Estructura compuesta: Estatura
+
 ![image](https://user-images.githubusercontent.com/99224635/164132380-cafec2b9-6917-4ead-92a4-d60aa9356ac5.png)
 
 
