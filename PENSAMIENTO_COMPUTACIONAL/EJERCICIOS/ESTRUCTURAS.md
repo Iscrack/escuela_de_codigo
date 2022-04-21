@@ -85,11 +85,12 @@
 
 **2 DECLARAR(mes)Int
 
-**3 MOSTRAR: "ESCRIBA UNA MES"
+**3 MOSTRAR: "INGRESE UN NÚMERO DEL 1 AL 12"
 
 **4 ASIGNAR mes
 
 **5 CASE (mes)
+
 *** 1:mostrar (Enero)
 
 *** 2:mostrar (Febrero)
@@ -114,7 +115,7 @@
 
 *** 12:mostrar (Diciembre)
 
-*** Otro:mostrar ("Error"
+*** SiNo:mostrar ("Error"
 
 **7 FIN
 
