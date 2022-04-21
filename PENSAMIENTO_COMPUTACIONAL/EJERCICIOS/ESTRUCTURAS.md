@@ -91,17 +91,29 @@
 
 **5 CASE (mes)
 *** 1:mostrar (Enero)
+
 *** 2:mostrar (Febrero)
+
 *** 3:mostrar (Marzo)
+
 *** 4:mostrar (Abril)
+
 *** 5:mostrar (Mayo)
+
 *** 6:mostrar (Junio)
+
 *** 7:mostrar (Julio)
+
 *** 8:mostrar (Agosto)
+
 *** 9:mostrar (Septiembre)
+
 *** 10:mostrar (Octubre)
+
 *** 11:mostrar (Noviembre)
+
 *** 12:mostrar (Diciembre)
+
 *** Otro:mostrar ("Error"
 
 **7 FIN
