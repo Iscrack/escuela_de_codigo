@@ -26,12 +26,38 @@
 ![image](https://user-images.githubusercontent.com/99224635/164295148-47e105ae-3057-4332-82da-d09d66b0063d.png)
 
 
-![image](https://user-images.githubusercontent.com/99224635/164303713-8a0829a6-92d3-4e4d-98fb-924d95c507be.png)
+![image](https://user-images.githubusercontent.com/99224635/164535682-6320d028-ecf5-4ebf-8650-898feb81a531.png)
 
 
 
 
 * Un programa que pida una letra y detecte si es una vocal. 
+
+**INICIO
+
+**DECLARAR(vocal)char
+
+**MOSTRAR: "ESCRIBA UNA LETRA PARA SABER SI ES VOCAL O NO"
+
+**ASIGNAR:vocal
+
+**CASE (vocal)
+
+*** "A" o "a":mostrar ("Es vocal")
+*** "E" o "e":mostrar ("Es vocal")
+*** "I" o "i":mostrar ("Es vocal")
+*** "O" o "o":strar ("Es vocal")
+*** "U" o "u"mostrar ("Es vocal")
+SiNo: "No es Vocal"
+**7 FIN
+
+![image](https://user-images.githubusercontent.com/99224635/164535350-47a89e87-ea6c-4e38-9efa-ecb3c5866255.png)
+
+
+![image](https://user-images.githubusercontent.com/99224635/164535419-a97b1af4-389b-4722-9384-c398b61d2101.png)
+
+
+
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 
 **INICIO
@@ -72,13 +98,6 @@
 ![image](https://user-images.githubusercontent.com/99224635/164373349-c506abac-f44d-4c71-825f-e6d5a69aefed.png)
 
 
-             
-             
-            
-
-
-
-
 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 **1 INICIO
@@ -115,10 +134,14 @@
 
 *** 12:mostrar (Diciembre)
 
-*** SiNo:mostrar ("Error"
+*** SiNo:mostrar ("Error""
 
 **7 FIN
 
+![image](https://user-images.githubusercontent.com/99224635/164530538-9b84a806-a55f-49d7-8ebe-47cf5e312614.png)
+
+
+![image](https://user-images.githubusercontent.com/99224635/164530578-1b1a0db9-b89d-4418-bfc6-6377abe33096.png)
 
 
 
