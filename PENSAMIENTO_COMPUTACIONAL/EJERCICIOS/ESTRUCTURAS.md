@@ -61,7 +61,7 @@
 ** IF NUM 1 < NUM 2
 ** MOSTRAR NUM3, NUM 1, NUM 2
 
-**FIN
+**FInN
 
 ![image](https://user-images.githubusercontent.com/99224635/164303810-649356e1-6638-48a5-9240-ce96f41058d9.png)
 
