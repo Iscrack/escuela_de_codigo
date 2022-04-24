@@ -22,19 +22,11 @@
 
 
 var num;
-
 var i;
-
 var total;
-
 num = (prompt ("Ingrese el número que desee multiplicar"));
-
 for (i=0; i<=10; i++)
-
 {
-
     total = num * i
-    
 document.write ( num + " x " + i + " = " + total + "<br>");
-
 }
