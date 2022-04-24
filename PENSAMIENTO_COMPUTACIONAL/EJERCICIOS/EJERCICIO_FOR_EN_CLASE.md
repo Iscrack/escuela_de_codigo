@@ -5,7 +5,7 @@ Hacer un programa que solicite seis números y que los vaya sumando automáticam
 * MOSTRAR "Ingrese un número"
 * ASIGNAR num
 * total: total + num
- * MOSTRAR "La suma final es " + SUMA
+ * MOSTRAR "La suma final es " + total
  * fin FOR
  **FIN
 
