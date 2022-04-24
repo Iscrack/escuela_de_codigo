@@ -16,7 +16,17 @@
 
 
 # Multiplicar un número en una tabla del 1 al 10
-
+**INICIO
+*Declarar var num;
+*Declarar var i;
+*Declarar var total;
+*Mostrar "Ingrese un número"
+*Asignar número
+*Declarar ciclo Para: i que va desde 0 hasta 10 sumando una iteración
+i=0; i<=10; i++
+*Asignar total  = num * i;
+*Mostrar num + " x " + i + " = " + total + "<br>";
+**FIN
 
 
 
