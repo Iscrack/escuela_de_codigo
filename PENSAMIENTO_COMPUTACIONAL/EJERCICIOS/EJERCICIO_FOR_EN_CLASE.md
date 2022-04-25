@@ -15,7 +15,7 @@
 
 var num;
 var suma=0;
-var total;
+
 for (i=0; i<=5; i++)
 {
 num = parseInt(prompt("Ingrese un número"));
