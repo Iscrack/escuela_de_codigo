@@ -14,13 +14,19 @@
 ** ![image](https://user-images.githubusercontent.com/99224635/164957054-44074430-d84a-427c-9858-931c0000e23c.png)
 
 var num;
+
 var suma=0;
 
 for (i=0; i<=5; i++)
+
 {
+
 num = parseInt(prompt("Ingrese un número"));
+
 suma = suma + num;
+
 }
+
 document.write ("La suma final es " + suma);
 
 
