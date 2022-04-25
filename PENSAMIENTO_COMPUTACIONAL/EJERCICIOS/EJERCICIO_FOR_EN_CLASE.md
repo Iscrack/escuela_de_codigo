@@ -48,3 +48,6 @@ document.write ( num + " x " + i + " = " + total + "<br>");
 }
 
 ![image](https://user-images.githubusercontent.com/99224635/164989802-8ce81139-6109-4e22-999a-f73e2875979d.png)
+
+
+#
