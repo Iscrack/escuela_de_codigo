@@ -29,8 +29,6 @@ i=0; i<=10; i++
 **FIN
 
 
-
-
 var num;
 
 var i;
