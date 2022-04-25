@@ -2,7 +2,7 @@
 **INICIO
 *DECLARAR num
 *DECLARAR sum = 0
-*Para i=0; i<=5; i++
+*DECLARAR Para i=0; i<=5; i++
 *MOSTRAR "Ingrese un número"
 *ASIGNAR num
 *suma: suma + num
