@@ -1,4 +1,4 @@
-# Hacer un programa que solicite seis números y que los vaya sumando automáticamente
+# Programa que solicite seis números y los sume automáticamente
 **INICIO
 *DECLARAR num
 *DECLARAR sum = 0
@@ -34,7 +34,7 @@ document.write ("La suma final es " + suma);
 
 
 
-# Multiplicar un número en una tabla del 1 al 10
+# Multiplicar un número cualquier del 1 al 10
 **INICIO
 *Declarar var num;
 *Declarar var i;
