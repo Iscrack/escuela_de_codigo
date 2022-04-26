@@ -30,7 +30,7 @@ suma = suma + num;
 
 }
 
-document.write ("La suma final es " + suma);
+document.write ("La suma final es " + suma); 
 
 
 
