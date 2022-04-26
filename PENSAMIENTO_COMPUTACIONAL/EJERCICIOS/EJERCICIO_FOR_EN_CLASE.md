@@ -69,4 +69,25 @@ document.write ( num + " x " + i + " = " + total + "<br>");
 ![image](https://user-images.githubusercontent.com/99224635/164989802-8ce81139-6109-4e22-999a-f73e2875979d.png)
 
 
-#
+# Mostrar las multiplicaciones del 1 al 10
+
+
+
+
+
+var num=0;
+
+var i=0;
+
+var total;
+
+for (i=1; i<=10; i++)
+
+{
+ 
+  for (num=1; num<=10; num++)
+ {
+    total = num * i;
+      document.write (num + " x " + i + " = " + total + "<br>" );
+ }
+}
