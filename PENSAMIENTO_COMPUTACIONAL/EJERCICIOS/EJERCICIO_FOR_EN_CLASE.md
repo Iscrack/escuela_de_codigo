@@ -91,3 +91,17 @@ for (i=1; i<=10; i++)
       document.write (num + " x " + i + " = " + total + "<br>" );
  }
 }
+
+
+
+#PEDIR 10 NÚMEROS: SI SON NEGATIVOS SE SUMAN; SI SON NEGATIVOS SE PROMEDIAN
+
+
+
+
+
+
+
+
+
+
