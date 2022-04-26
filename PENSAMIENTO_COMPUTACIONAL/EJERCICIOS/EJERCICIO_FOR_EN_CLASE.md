@@ -99,6 +99,13 @@ for (i=1; i<=10; i++)
 **![image](https://user-images.githubusercontent.com/99224635/165363303-470f694c-cb8c-4f6b-888a-ba41bada2cce.png)
 
 
+
+# DECIR HOLA HASTA QUE SE INGRESE EL NÚMERO 1"
+
+**![image](https://user-images.githubusercontent.com/99224635/165371659-737dd34c-79ff-44d1-900d-9cf87be4c1fc.png)
+
+
+
 # SUMA DE PRODUCTOS HASTA QUE SE INGRESE CERO, SI INGRESA NEGATIVO MARCA "ERROR"
 
 
