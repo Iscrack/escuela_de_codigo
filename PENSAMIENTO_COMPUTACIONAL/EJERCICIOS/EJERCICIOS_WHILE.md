@@ -1,4 +1,22 @@
 # DECIR HOLA HASTA QUE SE INGRESE EL NÚMERO 1"
+**INICIO
+
+**DECLARAR VARIABLES (NUM)
+
+**MOSTRAR "INGRESE UNA CANTIDAD"
+
+**ASIGNAR NÚMERO
+
+**MIENTRAS NÚMERO SEA !=1
+
+**MOSTRAR "Hola"
+
+**CONDICIÓN IF (SI NUM ==1)
+
+**MOSTRAR "Bien hecho"
+
+**FIN
+
 
 **![image](https://user-images.githubusercontent.com/99224635/165371659-737dd34c-79ff-44d1-900d-9cf87be4c1fc.png)
 
