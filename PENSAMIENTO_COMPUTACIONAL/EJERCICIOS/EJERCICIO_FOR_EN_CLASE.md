@@ -108,6 +108,7 @@ for (i=1; i<=10; i++)
 
 # SUMA DE PRODUCTOS HASTA QUE SE INGRESE CERO, SI INGRESA NEGATIVO MARCA "ERROR"
 
+* ![image](https://user-images.githubusercontent.com/99224635/165429935-b1fdbddd-c45c-4a3d-83f3-121016dcfc56.png)
 
 
 
