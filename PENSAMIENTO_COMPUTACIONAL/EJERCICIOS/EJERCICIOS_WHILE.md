@@ -19,8 +19,7 @@
 
 **FIN
 
-
-**![image](https://user-images.githubusercontent.com/99224635/165371659-737dd34c-79ff-44d1-900d-9cf87be4c1fc.png)
+*![image](https://user-images.githubusercontent.com/99224635/165371659-737dd34c-79ff-44d1-900d-9cf87be4c1fc.png)
 
 
 
