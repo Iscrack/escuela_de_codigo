@@ -94,7 +94,7 @@ for (i=1; i<=10; i++)
 
 
 
-#PEDIR 10 NÚMEROS: SI SON NEGATIVOS SE SUMAN; SI SON NEGATIVOS SE PROMEDIAN
+# PEDIR 10 NÚMEROS: SI SON NEGATIVOS SE SUMAN; SI SON POSITIVOS SE PROMEDIAN
 
 **![image](https://user-images.githubusercontent.com/99224635/165363303-470f694c-cb8c-4f6b-888a-ba41bada2cce.png)
 
