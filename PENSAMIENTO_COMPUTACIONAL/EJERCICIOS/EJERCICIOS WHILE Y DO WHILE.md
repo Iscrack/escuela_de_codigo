@@ -47,6 +47,7 @@ Algoritmo Diez_Calificaciones
 	Escribir 'El total de calificaciones menor a 7 es ',men
 	Escribir 'El total de calificaciones mayor a 7 es ',may
 FinAlgoritmo
+
 ![image](https://user-images.githubusercontent.com/99224635/165662273-543eedb5-7f52-47a2-bec6-ed428a6d63eb.png)
 
 
