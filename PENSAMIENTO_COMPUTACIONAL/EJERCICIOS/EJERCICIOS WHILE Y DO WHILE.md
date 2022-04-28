@@ -100,4 +100,32 @@ FinAlgoritmo
 ![image](https://user-images.githubusercontent.com/99224635/165667905-2daad103-d8c5-4385-a0f8-d400abf56dd8.png)
 
 
+# RETO INGRESAR UN NÚMERO DEL 0 AL 999. CON BASE EN LA CANTIDAD, INDICAR CUANTAS CIFRAS TIENE CADA NÚMERO. EL PROCESO FINALIZA AL INGRESAR EL NÚMERO CERO.
+Algoritmo RETO_Cifras
+	Repetir
+		Escribir 'Ingrese un número'
+		Leer num
+		Si num>=1 Y num<=9 Entonces
+			Escribir 'Número de una cifra'
+		SiNo
+			Si num>=10 Y num<=99 Entonces
+				Escribir 'Número de dos cifras'
+			SiNo
+				si num>=100 Y num<=999 Entonces
+				Escribir 'Número de tres cifras'
+			SiNo
+				si num<0 o num>999 Entonces
+					Escribir 'Error.'
+				FinSi
+			FinSi
+		FinSi
+	fin si
+Hasta Que num=0
+	Escribir 'Suerte'
+FinAlgoritmo
 
+
+![image](https://user-images.githubusercontent.com/99224635/165682099-0ff6ca88-3eba-498d-acd3-21874177ed18.png)
+
+
+![Uploading image.png…]()
