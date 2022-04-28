@@ -71,7 +71,7 @@ Escribir "El promedio de altura de las " personas " personas, es de " prom
 
 FinAlgoritmo
 
-![image](https://user-images.githubusercontent.com/99224635/165665571-a7490381-980e-4611-9c25-a84263b74855.png)
+![image](https://user-images.githubusercontent.com/99224635/165667845-38b4da13-19b5-48c3-a800-7425bd6c50d6.png)
 
 
 
@@ -97,7 +97,7 @@ lgoritmo Promedio_Estaturas
 	Escribir "El promedio de altura de las " personas " personas, es de " prom
 FinAlgoritmo
 
+![image](https://user-images.githubusercontent.com/99224635/165667905-2daad103-d8c5-4385-a0f8-d400abf56dd8.png)
 
-![image](https://user-images.githubusercontent.com/99224635/165666890-a8cbccf7-41ab-4cbb-b269-9e4c27ffffd2.png)
 
 
