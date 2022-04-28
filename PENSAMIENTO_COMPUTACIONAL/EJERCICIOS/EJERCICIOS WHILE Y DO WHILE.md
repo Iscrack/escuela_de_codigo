@@ -75,5 +75,29 @@ FinAlgoritmo
 
 
 
-# RETO PROMEDIO DE ALTURA
+# RETO PROMEDIO DE ALTURA CON RANGO INFERIOR Y SUPERIOR
+lgoritmo Promedio_Estaturas
+	prom = 0
+	alt = 0
+	i = 0
+	suma = 0
+	personas = 0
+	Escribir "¿De cuántas personas desea leer la altura?"
+	leer personas
+	Mientras i < personas Hacer Escribir "Ingresa altura. Ejemplo 160"
+		leer alt
+		Mientras alt<110 o alt>230 Hacer
+			Escribir "ERROR. Altura Inválida. Ingrese altura"
+			leer alt
+		FinMientras
+		suma = suma + alt 
+		prom = suma / personas
+		i = i + 1
+	Fin Mientras
+	Escribir "El promedio de altura de las " personas " personas, es de " prom
+FinAlgoritmo
+
+
+![image](https://user-images.githubusercontent.com/99224635/165666890-a8cbccf7-41ab-4cbb-b269-9e4c27ffffd2.png)
+
 
