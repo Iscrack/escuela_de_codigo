@@ -23,7 +23,7 @@ FinAlgoritmo
 
 
 # RETO ESCRIBIR 10 CALIFICACIONES. CONTABILIZAR LAS QUE SEAN MENOR DE 7 Y LAS QUE SEAN MAYORES A 7. MARCAR ERROR SI ES MENOR A CERO Y MAYOR A DIEZ
-Algoritmo Diez_Calificaciones
+Algoritmo Reto_Diez_Calificaciones
 	calif <- 0
 	i <- 1
 	men <- 0
@@ -32,7 +32,7 @@ Algoritmo Diez_Calificaciones
 		Escribir 'Escribir calificación ',i
 		Leer calif
 		Mientras calif<0 O calif>10 Hacer
-			Escribir 'Error. Escribir calificación ',i
+			Escribir 'ERROR. Escribir calificación ',i
 			Leer calif
 		FinMientras
 		i <- i+1
@@ -48,7 +48,8 @@ Algoritmo Diez_Calificaciones
 	Escribir 'El total de calificaciones mayor a 7 es ',may
 FinAlgoritmo
 
-![image](https://user-images.githubusercontent.com/99224635/165662273-543eedb5-7f52-47a2-bec6-ed428a6d63eb.png)
+![image](https://user-images.githubusercontent.com/99224635/165663922-c601728c-2215-4f94-859a-bdd86322ea59.png)
+
 
 
 
